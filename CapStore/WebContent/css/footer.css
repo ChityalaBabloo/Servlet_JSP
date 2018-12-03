@@ -1,0 +1,14 @@
+
+footer {
+	margin-top:1px;
+	background-color: #2d2d30;
+	padding:15px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+footer p {
+	letter-spacing: 1px;
+	color:aqua;
+}
